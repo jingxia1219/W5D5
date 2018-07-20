@@ -1,0 +1,12 @@
+/* PHASE 5: Cats */
+.content-header {
+  margin: 0 auto;
+  min-height: 200px;
+  /* display:flex; */
+  width: 100%;
+  
+  
+  background-size: cover;
+}
+.cat-pic {
+}
